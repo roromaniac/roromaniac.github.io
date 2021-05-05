@@ -3009,3 +3009,27 @@ input, select, textarea {
 			}
 
 	}
+
+/* Word Rotation */
+
+.cd-words-wrapper {
+	display: inline-block;
+	position: relative;
+	text-align: left;
+  }
+  .cd-words-wrapper b {
+	display: inline-block;
+	position: absolute;
+	white-space: nowrap;
+	left: 0;
+	top: 0;
+  }
+  .cd-words-wrapper b.is-visible {
+	position: relative;
+  }
+  .no-js .cd-words-wrapper b {
+	opacity: 0;
+  }
+  .no-js .cd-words-wrapper b.is-visible {
+	opacity: 1;
+  }
