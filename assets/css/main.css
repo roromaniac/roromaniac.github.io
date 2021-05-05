@@ -3057,6 +3057,7 @@ xclip
   load animation
   -------------------------------- */
   
+  /* -------------------------------
   @keyframes transparent {
 	0% {
 		  opacity: 0;
@@ -3090,11 +3091,10 @@ xclip
   }
   
   header {
-	/* This section calls the slideInFromLeft animation we defined above */
 	animation: 0.9s ease-out 0.25s 1 slideInFromLeft, 0.25s ease-in 0s 1 transparent;
   }
   
   #main {
-	/* This section calls the slideInFromBottom animation we defined above */
 	animation: 0.7s ease-out 0s 1 slideInFromBottom;
   }
+  --------------------------- */
