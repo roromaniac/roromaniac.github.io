@@ -3056,8 +3056,7 @@ xclip
   /* --------------------------------
   load animation
   -------------------------------- */
-  
-  /* -------------------------------
+
   @keyframes transparent {
 	0% {
 		  opacity: 0;
@@ -3097,4 +3096,4 @@ xclip
   #main {
 	animation: 0.7s ease-out 0s 1 slideInFromBottom;
   }
-  --------------------------- */
+ 
