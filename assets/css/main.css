@@ -3203,14 +3203,3 @@ xclip
 			#footer .copyright li a {
 				color: inherit;
 			}
-
-.codebutton {
-	background-color: #4b7a47; 
-	width: 140px; 
-	height: 85px; 
-	justify-content: center;
-  	align-items: center; 
-	padding: 10px 24px; 
-	font-size: 20px;
-	display: flex;
-}
