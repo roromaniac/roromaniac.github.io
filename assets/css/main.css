@@ -3212,4 +3212,5 @@ xclip
   	align-items: center; 
 	padding: 10px 24px; 
 	font-size: 20px;
+	display: flex;
 }
