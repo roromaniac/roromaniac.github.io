@@ -2493,6 +2493,7 @@ input, select, textarea {
 
 				.box.post .info .stats li {
 					padding-left: 0;
+					display: list-item;
 				}
 
 					.box.post .info .stats li a {
