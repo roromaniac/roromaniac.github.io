@@ -1871,7 +1871,7 @@ input, select, textarea {
 
 		ul li {
 			padding-left: 0.5em;
-			display: inline;
+			display: list-item;
 		}
 
 	ol {
